@@ -5,8 +5,8 @@ python için ile yapılmış türkçe renkler kütüphanesi
 
 rastgele renk için (pip install random)
 
-pip install renkler
+pip install renk
 
 # Dökümantasyon
-
+https://pypi.org/project/renk/
 https://berkaykucuk.com.tr/blog/python-renkler-dokumantasyon/
