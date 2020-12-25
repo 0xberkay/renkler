@@ -48,7 +48,7 @@ altcizgi = '\033[4m'
 parlak = '\033[5m'
     
 
-tum_renkler=("sifirla","beyaz","kirmizi","turuncu","yesil","sari","lacivert","pembe","mor","mavi","siyah","aciksari","gri","kahverengi","pmavi","pkirmizi","pyesil","psari","asiyah","akirmizi","ayesil","asari","alacivert","amor","amavi","abeyaz","apkirmizi","apyesil","apsari","aplacivert","apmor","apmavi","apbeyaz","apsifirla","kalin","altcizgi","parlak")
+tum_renkler=("\033[0msifirla","\033[37mbeyaz","\033[31mkirmizi","\u001b[38;5;208mturuncu","\033[32myesil","\033[33msari","\033[34mlacivert","\033[35mpembe","\u001b[38;5;165mmor","\u001b[38;5;32mmavi","\033[90msiyah","\u001b[38;5;228maciksari","\u001b[38;5;246mgri","\u001b[38;5;95mkahverengi","\033[96mpmavi","\033[91mpkirmizi","\033[92mpyesil","\033[93mpsari\033[0m","\033[40masiyah","\033[41makirmizi","\033[42mayesil","\033[43masari","\033[44malacivert","\033[45mamor","\033[46mamavi","\033[47mabeyaz","\033[101mapkirmizi","\033[102mapyesil","\033[103mapsari","\033[104maplacivert","\033[105mapmor","\033[106mapmavi","\033[107mapbeyaz","\033[0;49mapsifirla","\033[1mkalin","\033[4maltcizgi\033[0m","\033[5mparlak")
 
 
 
