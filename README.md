@@ -3,15 +3,10 @@ python için ile yapılmış türkçe renkler kütüphanesi
 
 # Yükleme
 
+rastgele renk için (pip install random)
+
 pip install renkler
 
-# Tüm renkleri görmek için 
+# Dökümantasyon
 
-print(tum_renkler)
-
-# Rastgele renkler içim
-
-gerekli kütüphane random (pip insall random)
-
-
-print(rastgeleRenkler(mavi,siyah,sari))
+https://berkaykucuk.com.tr/blog/python-renkler-dokumantasyon/
