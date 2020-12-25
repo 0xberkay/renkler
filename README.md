@@ -1,2 +1,2 @@
-# renkler
-python için Türkçe renk kütüphanesi
+# Renkler
+python için ile yapılmış türkçe renkler kütüphanesi
