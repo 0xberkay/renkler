@@ -9,4 +9,4 @@ pip install renk
 
 # Dökümantasyon
 https://pypi.org/project/renk/
-https://berkaykucuk.com.tr/blog/python-renkler-dokumantasyon/
+
