@@ -1,6 +1,4 @@
-#Berkay kucuk
-#berkaykucuk.com.tr
-#github.com/bksec
+
 
 #####################################
 ###############RENKLER###############
